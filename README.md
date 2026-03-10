@@ -2,10 +2,6 @@
 
 A Python-based tool that analyzes Python code and detects common coding issues using static code analysis.
 
-## Application Demo 
-
-![Application Screenshot](app-demo.png)
-
 ## Features
 
 - Detect debug print statements
