@@ -49,6 +49,7 @@ python -m streamlit run ui/app.py
 git clone
 https://github.com/Ashrith59/AI-Code-Review-Assistant.git
 cd AI-Code-Review-Assistant
+```
 
 ## Author
 
